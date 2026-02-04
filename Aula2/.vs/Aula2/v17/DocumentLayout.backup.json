@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\franciele.sjesus2\\source\\repos\\Aula2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0100FE7D-AE3C-434D-AA3A-8D712F4EE8E7}|Aula2\\Aula2.csproj|c:\\users\\franciele.sjesus2\\source\\repos\\aula2\\aula2\\media.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0100FE7D-AE3C-434D-AA3A-8D712F4EE8E7}|Aula2\\Aula2.csproj|solutionrelative:aula2\\media.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0100FE7D-AE3C-434D-AA3A-8D712F4EE8E7}|Aula2\\Aula2.csproj|c:\\users\\franciele.sjesus2\\source\\repos\\aula2\\aula2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0100FE7D-AE3C-434D-AA3A-8D712F4EE8E7}|Aula2\\Aula2.csproj|solutionrelative:aula2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Media.cs",
+              "DocumentMoniker": "C:\\Users\\franciele.sjesus2\\source\\repos\\Aula2\\Aula2\\Media.cs",
+              "RelativeDocumentMoniker": "Aula2\\Media.cs",
+              "ToolTip": "C:\\Users\\franciele.sjesus2\\source\\repos\\Aula2\\Aula2\\Media.cs",
+              "RelativeToolTip": "Aula2\\Media.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAkwCgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T00:11:13.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\franciele.sjesus2\\source\\repos\\Aula2\\Aula2\\Program.cs",
+              "RelativeDocumentMoniker": "Aula2\\Program.cs",
+              "ToolTip": "C:\\Users\\franciele.sjesus2\\source\\repos\\Aula2\\Aula2\\Program.cs",
+              "RelativeToolTip": "Aula2\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAC8AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T22:16:40.425Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
