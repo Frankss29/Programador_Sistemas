@@ -30,6 +30,15 @@
 
 using Aula3_Exercícios;
 
-Situacao avaliacao=new Situacao();
+//USANDO VOID
+//Situacao avaliacao=new Situacao();
+//avaliacao.ChamarNota();
+//avaliacao.Nota(); 
+
+//USANDO RETURN
+
+Status avaliacao = new Status();
 avaliacao.ChamarNota();
-avaliacao.Nota();
+
+string resultado = avaliacao.Verificar();
+Console.WriteLine(resultado);

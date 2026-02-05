@@ -9,6 +9,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{5723A36B-2F4A-4F11-8925-1EED7FB57A2F}|Aula3_Exerc\u00EDcios\\Aula3_Exerc\u00EDcios.csproj|c:\\users\\franciele.sjesus2\\source\\repos\\aula3_exerc\u00EDcios\\aula3_exerc\u00EDcios\\situacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5723A36B-2F4A-4F11-8925-1EED7FB57A2F}|Aula3_Exerc\u00EDcios\\Aula3_Exerc\u00EDcios.csproj|solutionrelative:aula3_exerc\u00EDcios\\situacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5723A36B-2F4A-4F11-8925-1EED7FB57A2F}|Aula3_Exerc\u00EDcios\\Aula3_Exerc\u00EDcios.csproj|c:\\users\\franciele.sjesus2\\source\\repos\\aula3_exerc\u00EDcios\\aula3_exerc\u00EDcios\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5723A36B-2F4A-4F11-8925-1EED7FB57A2F}|Aula3_Exerc\u00EDcios\\Aula3_Exerc\u00EDcios.csproj|solutionrelative:aula3_exerc\u00EDcios\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
@@ -28,9 +32,23 @@
               "RelativeDocumentMoniker": "Aula3_Exerc\u00EDcios\\Situacao.cs",
               "ToolTip": "C:\\Users\\franciele.sjesus2\\source\\repos\\Aula3_Exerc\u00EDcios\\Aula3_Exerc\u00EDcios\\Situacao.cs",
               "RelativeToolTip": "Aula3_Exerc\u00EDcios\\Situacao.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-05T00:35:00.558Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Status.cs",
+              "DocumentMoniker": "C:\\Users\\franciele.sjesus2\\source\\repos\\Aula3_Exerc\u00EDcios\\Aula3_Exerc\u00EDcios\\Status.cs",
+              "RelativeDocumentMoniker": "Aula3_Exerc\u00EDcios\\Status.cs",
+              "ToolTip": "C:\\Users\\franciele.sjesus2\\source\\repos\\Aula3_Exerc\u00EDcios\\Aula3_Exerc\u00EDcios\\Status.cs",
+              "RelativeToolTip": "Aula3_Exerc\u00EDcios\\Status.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T21:59:13.871Z",
               "EditorCaption": ""
             },
             {
@@ -41,7 +59,7 @@
               "RelativeDocumentMoniker": "Aula3_Exerc\u00EDcios\\Program.cs",
               "ToolTip": "C:\\Users\\franciele.sjesus2\\source\\repos\\Aula3_Exerc\u00EDcios\\Aula3_Exerc\u00EDcios\\Program.cs",
               "RelativeToolTip": "Aula3_Exerc\u00EDcios\\Program.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAACIAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACsAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-05T00:04:53.669Z",
               "EditorCaption": ""
