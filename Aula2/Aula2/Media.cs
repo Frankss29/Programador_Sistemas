@@ -39,7 +39,7 @@ namespace Aula2
         {
 
             RMedia =( N1 + N2 + N3) / 3;
-            Console.WriteLine("Sua Média é: " +RMedia);
+            Console.WriteLine( Nome + " sua média é " + RMedia);
         }
     }
 }

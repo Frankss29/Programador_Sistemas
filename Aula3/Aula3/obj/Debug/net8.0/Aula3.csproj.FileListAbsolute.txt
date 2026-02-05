@@ -1,0 +1,15 @@
+C:\Users\franciele.sjesus2\source\repos\Aula3\Aula3\bin\Debug\net8.0\Aula3.exe
+C:\Users\franciele.sjesus2\source\repos\Aula3\Aula3\bin\Debug\net8.0\Aula3.deps.json
+C:\Users\franciele.sjesus2\source\repos\Aula3\Aula3\bin\Debug\net8.0\Aula3.runtimeconfig.json
+C:\Users\franciele.sjesus2\source\repos\Aula3\Aula3\bin\Debug\net8.0\Aula3.dll
+C:\Users\franciele.sjesus2\source\repos\Aula3\Aula3\bin\Debug\net8.0\Aula3.pdb
+C:\Users\franciele.sjesus2\source\repos\Aula3\Aula3\obj\Debug\net8.0\Aula3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\franciele.sjesus2\source\repos\Aula3\Aula3\obj\Debug\net8.0\Aula3.AssemblyInfoInputs.cache
+C:\Users\franciele.sjesus2\source\repos\Aula3\Aula3\obj\Debug\net8.0\Aula3.AssemblyInfo.cs
+C:\Users\franciele.sjesus2\source\repos\Aula3\Aula3\obj\Debug\net8.0\Aula3.csproj.CoreCompileInputs.cache
+C:\Users\franciele.sjesus2\source\repos\Aula3\Aula3\obj\Debug\net8.0\Aula3.sourcelink.json
+C:\Users\franciele.sjesus2\source\repos\Aula3\Aula3\obj\Debug\net8.0\Aula3.dll
+C:\Users\franciele.sjesus2\source\repos\Aula3\Aula3\obj\Debug\net8.0\refint\Aula3.dll
+C:\Users\franciele.sjesus2\source\repos\Aula3\Aula3\obj\Debug\net8.0\Aula3.pdb
+C:\Users\franciele.sjesus2\source\repos\Aula3\Aula3\obj\Debug\net8.0\Aula3.genruntimeconfig.cache
+C:\Users\franciele.sjesus2\source\repos\Aula3\Aula3\obj\Debug\net8.0\ref\Aula3.dll
