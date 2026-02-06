@@ -10,7 +10,7 @@ namespace Aula4
     {
         public int op, a, b;
 
-        public string ChamarNumero()
+        public void  ChamarNumero()
         {
             Console.WriteLine("Digite um número:");
             a = int.Parse(Console.ReadLine());
@@ -21,13 +21,36 @@ namespace Aula4
             b = int.Parse(Console.ReadLine());
         }
 
-        public int ChamarOperacao()
+        public void ChamarOperacao()
         {
             Console.WriteLine("Digite 1 para adição");
             Console.WriteLine("Digite 2 para subtração");
             Console.WriteLine("Digite 3 para multiplicação");
             Console.WriteLine("Digite 4 para divisão");
             op = int.Parse(Console.ReadLine());
+        }
+
+        public void FazerCalculo()
+        {
+            switch (op)
+            {
+                case 1:
+                    Console.WriteLine(a + b);
+                    break;
+                case 2:
+                    Console.WriteLine(a - b);
+                    break;
+                case 3:
+                    Console.WriteLine(a * b);
+                    break;
+                case 4:
+                    Console.WriteLine(a / b);
+                    break;
+                default:
+                    Console.WriteLine("Operação Inválida");
+                    break;
+            }
+
         }
     }
 

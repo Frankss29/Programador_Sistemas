@@ -84,52 +84,57 @@
 //"Operação inválida".
 
 
-//VARIÁVEIS
+////VARIÁVEIS
 
-int operacao,a,b;
-
-
-//Entrada
-//Classe Calculadora
-//Função ChamarNumero 
-//Função Operação
-
-Console.WriteLine("Digite 1 para adição");
-Console.WriteLine("Digite 2 para subtração");
-Console.WriteLine("Digite 3 para multiplicação");
-Console.WriteLine("Digite 4 para divisão");
-operacao=int.Parse(Console.ReadLine());
-
-Console.WriteLine("\n-----\n");
-
-Console.WriteLine("Digite um número:");
-a=int.Parse(Console.ReadLine());
-
-Console.WriteLine("\n-----\n");
-
-Console.WriteLine("Digite outro número:");
-b = int.Parse(Console.ReadLine());
+//int operacao,a,b;
 
 
-//Processamento
+////Entrada
+////Classe Calculadora
+////Função ChamarNumero 
+////Função Operação
 
-switch (operacao)
-{
-    case 1:
-        Console.WriteLine(a + b);
-        break;
-    case 2:
-        Console.WriteLine(a - b);
-        break;
-    case 3:
-        Console.WriteLine(a * b);
-        break;
-    case 4:
-        Console.WriteLine(a / b);
-        break;
-    default:
-        Console.WriteLine("Operação Inválida");
-        break;
-}
+//Console.WriteLine("Digite 1 para adição");
+//Console.WriteLine("Digite 2 para subtração");
+//Console.WriteLine("Digite 3 para multiplicação");
+//Console.WriteLine("Digite 4 para divisão");
+//operacao=int.Parse(Console.ReadLine());
+
+//Console.WriteLine("\n-----\n");
+
+//Console.WriteLine("Digite um número:");
+//a=int.Parse(Console.ReadLine());
+
+//Console.WriteLine("\n-----\n");
+
+//Console.WriteLine("Digite outro número:");
+//b = int.Parse(Console.ReadLine());
 
 
+////Processamento
+
+//switch (operacao)
+//{
+//    case 1:
+//        Console.WriteLine(a + b);
+//        break;
+//    case 2:
+//        Console.WriteLine(a - b);
+//        break;
+//    case 3:
+//        Console.WriteLine(a * b);
+//        break;
+//    case 4:
+//        Console.WriteLine(a / b);
+//        break;
+//    default:
+//        Console.WriteLine("Operação Inválida");
+//        break;
+//}
+
+using Aula4;
+
+Calculadora calculadora = new Calculadora();
+calculadora.ChamarNumero();
+calculadora.ChamarOperacao();
+calculadora.FazerCalculo();
