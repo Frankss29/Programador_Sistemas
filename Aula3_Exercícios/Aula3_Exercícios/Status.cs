@@ -9,8 +9,6 @@ namespace Aula3_Exercícios
     internal class Status
     {
         double nota;
-
-
         public void ChamarNota()
         {
             Console.WriteLine("Informe a nota do aluno: ");

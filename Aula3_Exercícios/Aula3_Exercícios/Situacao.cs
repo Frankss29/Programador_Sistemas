@@ -16,7 +16,6 @@ namespace Aula3_Exercícios
             Console.WriteLine("Informe a nota do aluno: ");
             nota = double.Parse(Console.ReadLine());
         }
-
          public void Nota()
         {
 
