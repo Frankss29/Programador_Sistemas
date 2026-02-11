@@ -1,0 +1,17 @@
+C:\Users\franciele.sjesus2\source\repos\Aula07\Alerta\bin\Debug\net8.0-windows\Alerta.exe
+C:\Users\franciele.sjesus2\source\repos\Aula07\Alerta\bin\Debug\net8.0-windows\Alerta.deps.json
+C:\Users\franciele.sjesus2\source\repos\Aula07\Alerta\bin\Debug\net8.0-windows\Alerta.runtimeconfig.json
+C:\Users\franciele.sjesus2\source\repos\Aula07\Alerta\bin\Debug\net8.0-windows\Alerta.dll
+C:\Users\franciele.sjesus2\source\repos\Aula07\Alerta\bin\Debug\net8.0-windows\Alerta.pdb
+C:\Users\franciele.sjesus2\source\repos\Aula07\Alerta\obj\Debug\net8.0-windows\Alerta.Form1.resources
+C:\Users\franciele.sjesus2\source\repos\Aula07\Alerta\obj\Debug\net8.0-windows\Alerta.csproj.GenerateResource.cache
+C:\Users\franciele.sjesus2\source\repos\Aula07\Alerta\obj\Debug\net8.0-windows\Alerta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\franciele.sjesus2\source\repos\Aula07\Alerta\obj\Debug\net8.0-windows\Alerta.AssemblyInfoInputs.cache
+C:\Users\franciele.sjesus2\source\repos\Aula07\Alerta\obj\Debug\net8.0-windows\Alerta.AssemblyInfo.cs
+C:\Users\franciele.sjesus2\source\repos\Aula07\Alerta\obj\Debug\net8.0-windows\Alerta.csproj.CoreCompileInputs.cache
+C:\Users\franciele.sjesus2\source\repos\Aula07\Alerta\obj\Debug\net8.0-windows\Alerta.sourcelink.json
+C:\Users\franciele.sjesus2\source\repos\Aula07\Alerta\obj\Debug\net8.0-windows\Alerta.dll
+C:\Users\franciele.sjesus2\source\repos\Aula07\Alerta\obj\Debug\net8.0-windows\refint\Alerta.dll
+C:\Users\franciele.sjesus2\source\repos\Aula07\Alerta\obj\Debug\net8.0-windows\Alerta.pdb
+C:\Users\franciele.sjesus2\source\repos\Aula07\Alerta\obj\Debug\net8.0-windows\Alerta.genruntimeconfig.cache
+C:\Users\franciele.sjesus2\source\repos\Aula07\Alerta\obj\Debug\net8.0-windows\ref\Alerta.dll
