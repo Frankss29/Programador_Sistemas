@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Alerta")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("RestoDaDivisao")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b1d159dbf9cc0a2fcea7f3c311ce2a4163737609")]
-[assembly: System.Reflection.AssemblyProductAttribute("Alerta")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Alerta")]
+[assembly: System.Reflection.AssemblyProductAttribute("RestoDaDivisao")]
+[assembly: System.Reflection.AssemblyTitleAttribute("RestoDaDivisao")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 [assembly: System.Runtime.Versioning.TargetPlatformAttribute("Windows7.0")]
 [assembly: System.Runtime.Versioning.SupportedOSPlatformAttribute("Windows7.0")]

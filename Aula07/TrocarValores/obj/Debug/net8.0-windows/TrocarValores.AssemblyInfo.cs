@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TrocarValores")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4a4bfe0715061e35c889634af1d6002201eace85")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b1d159dbf9cc0a2fcea7f3c311ce2a4163737609")]
 [assembly: System.Reflection.AssemblyProductAttribute("TrocarValores")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TrocarValores")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

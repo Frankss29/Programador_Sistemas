@@ -1,0 +1,17 @@
+C:\Users\franciele.sjesus2\source\repos\Aula07\RestoDaDivisao\bin\Debug\net8.0-windows\RestoDaDivisao.exe
+C:\Users\franciele.sjesus2\source\repos\Aula07\RestoDaDivisao\bin\Debug\net8.0-windows\RestoDaDivisao.deps.json
+C:\Users\franciele.sjesus2\source\repos\Aula07\RestoDaDivisao\bin\Debug\net8.0-windows\RestoDaDivisao.runtimeconfig.json
+C:\Users\franciele.sjesus2\source\repos\Aula07\RestoDaDivisao\bin\Debug\net8.0-windows\RestoDaDivisao.dll
+C:\Users\franciele.sjesus2\source\repos\Aula07\RestoDaDivisao\bin\Debug\net8.0-windows\RestoDaDivisao.pdb
+C:\Users\franciele.sjesus2\source\repos\Aula07\RestoDaDivisao\obj\Debug\net8.0-windows\RestoDaDivisao.Form1.resources
+C:\Users\franciele.sjesus2\source\repos\Aula07\RestoDaDivisao\obj\Debug\net8.0-windows\RestoDaDivisao.csproj.GenerateResource.cache
+C:\Users\franciele.sjesus2\source\repos\Aula07\RestoDaDivisao\obj\Debug\net8.0-windows\RestoDaDivisao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\franciele.sjesus2\source\repos\Aula07\RestoDaDivisao\obj\Debug\net8.0-windows\RestoDaDivisao.AssemblyInfoInputs.cache
+C:\Users\franciele.sjesus2\source\repos\Aula07\RestoDaDivisao\obj\Debug\net8.0-windows\RestoDaDivisao.AssemblyInfo.cs
+C:\Users\franciele.sjesus2\source\repos\Aula07\RestoDaDivisao\obj\Debug\net8.0-windows\RestoDaDivisao.csproj.CoreCompileInputs.cache
+C:\Users\franciele.sjesus2\source\repos\Aula07\RestoDaDivisao\obj\Debug\net8.0-windows\RestoDaDivisao.sourcelink.json
+C:\Users\franciele.sjesus2\source\repos\Aula07\RestoDaDivisao\obj\Debug\net8.0-windows\RestoDaDivisao.dll
+C:\Users\franciele.sjesus2\source\repos\Aula07\RestoDaDivisao\obj\Debug\net8.0-windows\refint\RestoDaDivisao.dll
+C:\Users\franciele.sjesus2\source\repos\Aula07\RestoDaDivisao\obj\Debug\net8.0-windows\RestoDaDivisao.pdb
+C:\Users\franciele.sjesus2\source\repos\Aula07\RestoDaDivisao\obj\Debug\net8.0-windows\RestoDaDivisao.genruntimeconfig.cache
+C:\Users\franciele.sjesus2\source\repos\Aula07\RestoDaDivisao\obj\Debug\net8.0-windows\ref\RestoDaDivisao.dll
