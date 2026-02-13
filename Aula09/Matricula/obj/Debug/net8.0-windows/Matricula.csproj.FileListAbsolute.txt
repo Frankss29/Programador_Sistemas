@@ -1,0 +1,17 @@
+C:\Users\franciele.sjesus2\source\repos\Aula09\Matricula\bin\Debug\net8.0-windows\Matricula.exe
+C:\Users\franciele.sjesus2\source\repos\Aula09\Matricula\bin\Debug\net8.0-windows\Matricula.deps.json
+C:\Users\franciele.sjesus2\source\repos\Aula09\Matricula\bin\Debug\net8.0-windows\Matricula.runtimeconfig.json
+C:\Users\franciele.sjesus2\source\repos\Aula09\Matricula\bin\Debug\net8.0-windows\Matricula.dll
+C:\Users\franciele.sjesus2\source\repos\Aula09\Matricula\bin\Debug\net8.0-windows\Matricula.pdb
+C:\Users\franciele.sjesus2\source\repos\Aula09\Matricula\obj\Debug\net8.0-windows\Matricula.Form1.resources
+C:\Users\franciele.sjesus2\source\repos\Aula09\Matricula\obj\Debug\net8.0-windows\Matricula.csproj.GenerateResource.cache
+C:\Users\franciele.sjesus2\source\repos\Aula09\Matricula\obj\Debug\net8.0-windows\Matricula.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\franciele.sjesus2\source\repos\Aula09\Matricula\obj\Debug\net8.0-windows\Matricula.AssemblyInfoInputs.cache
+C:\Users\franciele.sjesus2\source\repos\Aula09\Matricula\obj\Debug\net8.0-windows\Matricula.AssemblyInfo.cs
+C:\Users\franciele.sjesus2\source\repos\Aula09\Matricula\obj\Debug\net8.0-windows\Matricula.csproj.CoreCompileInputs.cache
+C:\Users\franciele.sjesus2\source\repos\Aula09\Matricula\obj\Debug\net8.0-windows\Matricula.sourcelink.json
+C:\Users\franciele.sjesus2\source\repos\Aula09\Matricula\obj\Debug\net8.0-windows\Matricula.dll
+C:\Users\franciele.sjesus2\source\repos\Aula09\Matricula\obj\Debug\net8.0-windows\refint\Matricula.dll
+C:\Users\franciele.sjesus2\source\repos\Aula09\Matricula\obj\Debug\net8.0-windows\Matricula.pdb
+C:\Users\franciele.sjesus2\source\repos\Aula09\Matricula\obj\Debug\net8.0-windows\Matricula.genruntimeconfig.cache
+C:\Users\franciele.sjesus2\source\repos\Aula09\Matricula\obj\Debug\net8.0-windows\ref\Matricula.dll
