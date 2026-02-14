@@ -32,10 +32,10 @@
             label2 = new Label();
             label3 = new Label();
             label4 = new Label();
-            textNome = new TextBox();
-            textAnoNascimento = new TextBox();
-            textAnoUltimoAniversario = new TextBox();
-            textCategoria = new TextBox();
+            txtNome = new TextBox();
+            txtNascimento = new TextBox();
+            txtAniversario = new TextBox();
+            txtCategoria = new TextBox();
             btnIdentificarCategoria = new Button();
             SuspendLayout();
             // 
@@ -76,36 +76,36 @@
             label4.TabIndex = 3;
             label4.Text = "Categoria:";
             // 
-            // textNome
+            // txtNome
             // 
-            textNome.Location = new Point(79, 24);
-            textNome.Name = "textNome";
-            textNome.Size = new Size(348, 23);
-            textNome.TabIndex = 4;
+            txtNome.Location = new Point(79, 24);
+            txtNome.Name = "txtNome";
+            txtNome.Size = new Size(348, 23);
+            txtNome.TabIndex = 4;
             // 
-            // textAnoNascimento
+            // txtNascimento
             // 
-            textAnoNascimento.Location = new Point(154, 60);
-            textAnoNascimento.Name = "textAnoNascimento";
-            textAnoNascimento.Size = new Size(64, 23);
-            textAnoNascimento.TabIndex = 5;
+            txtNascimento.Location = new Point(154, 60);
+            txtNascimento.Name = "txtNascimento";
+            txtNascimento.Size = new Size(64, 23);
+            txtNascimento.TabIndex = 5;
             // 
-            // textAnoUltimoAniversario
+            // txtAniversario
             // 
-            textAnoUltimoAniversario.Location = new Point(363, 60);
-            textAnoUltimoAniversario.Name = "textAnoUltimoAniversario";
-            textAnoUltimoAniversario.Size = new Size(64, 23);
-            textAnoUltimoAniversario.TabIndex = 6;
-            textAnoUltimoAniversario.Enter += textAnoUltimoAniversario_Enter;
-            textAnoUltimoAniversario.Validating += textAnoUltimoAniversario_Validating;
+            txtAniversario.Location = new Point(363, 60);
+            txtAniversario.Name = "txtAniversario";
+            txtAniversario.Size = new Size(64, 23);
+            txtAniversario.TabIndex = 6;
+            txtAniversario.Enter += txtAniversario_Enter;
+            txtAniversario.Validating += txtAniversario_Validating;
             // 
-            // textCategoria
+            // txtCategoria
             // 
-            textCategoria.BackColor = Color.FromArgb(255, 255, 128);
-            textCategoria.Location = new Point(294, 109);
-            textCategoria.Name = "textCategoria";
-            textCategoria.Size = new Size(133, 23);
-            textCategoria.TabIndex = 7;
+            txtCategoria.BackColor = Color.FromArgb(255, 255, 128);
+            txtCategoria.Location = new Point(294, 109);
+            txtCategoria.Name = "txtCategoria";
+            txtCategoria.Size = new Size(133, 23);
+            txtCategoria.TabIndex = 7;
             // 
             // btnIdentificarCategoria
             // 
@@ -115,6 +115,7 @@
             btnIdentificarCategoria.TabIndex = 8;
             btnIdentificarCategoria.Text = "Identificador Categoria";
             btnIdentificarCategoria.UseVisualStyleBackColor = true;
+            btnIdentificarCategoria.Click += btnIdentificarCategoria_Click;
             // 
             // Form1
             // 
@@ -122,10 +123,10 @@
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(468, 161);
             Controls.Add(btnIdentificarCategoria);
-            Controls.Add(textCategoria);
-            Controls.Add(textAnoUltimoAniversario);
-            Controls.Add(textAnoNascimento);
-            Controls.Add(textNome);
+            Controls.Add(txtCategoria);
+            Controls.Add(txtAniversario);
+            Controls.Add(txtNascimento);
+            Controls.Add(txtNome);
             Controls.Add(label4);
             Controls.Add(label3);
             Controls.Add(label2);
@@ -142,10 +143,10 @@
         private Label label2;
         private Label label3;
         private Label label4;
-        private TextBox textNome;
-        private TextBox textAnoNascimento;
-        private TextBox textAnoUltimoAniversario;
-        private TextBox textCategoria;
+        private TextBox txtNome;
+        private TextBox txtNascimento;
+        private TextBox txtAniversario;
+        private TextBox txtCategoria;
         private Button btnIdentificarCategoria;
     }
 }
