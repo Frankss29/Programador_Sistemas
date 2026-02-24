@@ -1,0 +1,17 @@
+C:\Users\franciele.sjesus2\source\repos\Aula11\RadioButton02\bin\Debug\net8.0-windows\RadioButton02.exe
+C:\Users\franciele.sjesus2\source\repos\Aula11\RadioButton02\bin\Debug\net8.0-windows\RadioButton02.deps.json
+C:\Users\franciele.sjesus2\source\repos\Aula11\RadioButton02\bin\Debug\net8.0-windows\RadioButton02.runtimeconfig.json
+C:\Users\franciele.sjesus2\source\repos\Aula11\RadioButton02\bin\Debug\net8.0-windows\RadioButton02.dll
+C:\Users\franciele.sjesus2\source\repos\Aula11\RadioButton02\bin\Debug\net8.0-windows\RadioButton02.pdb
+C:\Users\franciele.sjesus2\source\repos\Aula11\RadioButton02\obj\Debug\net8.0-windows\RadioButton02.Form1.resources
+C:\Users\franciele.sjesus2\source\repos\Aula11\RadioButton02\obj\Debug\net8.0-windows\RadioButton02.csproj.GenerateResource.cache
+C:\Users\franciele.sjesus2\source\repos\Aula11\RadioButton02\obj\Debug\net8.0-windows\RadioButton02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\franciele.sjesus2\source\repos\Aula11\RadioButton02\obj\Debug\net8.0-windows\RadioButton02.AssemblyInfoInputs.cache
+C:\Users\franciele.sjesus2\source\repos\Aula11\RadioButton02\obj\Debug\net8.0-windows\RadioButton02.AssemblyInfo.cs
+C:\Users\franciele.sjesus2\source\repos\Aula11\RadioButton02\obj\Debug\net8.0-windows\RadioButton02.csproj.CoreCompileInputs.cache
+C:\Users\franciele.sjesus2\source\repos\Aula11\RadioButton02\obj\Debug\net8.0-windows\RadioButton02.sourcelink.json
+C:\Users\franciele.sjesus2\source\repos\Aula11\RadioButton02\obj\Debug\net8.0-windows\RadioButton02.dll
+C:\Users\franciele.sjesus2\source\repos\Aula11\RadioButton02\obj\Debug\net8.0-windows\refint\RadioButton02.dll
+C:\Users\franciele.sjesus2\source\repos\Aula11\RadioButton02\obj\Debug\net8.0-windows\RadioButton02.pdb
+C:\Users\franciele.sjesus2\source\repos\Aula11\RadioButton02\obj\Debug\net8.0-windows\RadioButton02.genruntimeconfig.cache
+C:\Users\franciele.sjesus2\source\repos\Aula11\RadioButton02\obj\Debug\net8.0-windows\ref\RadioButton02.dll
