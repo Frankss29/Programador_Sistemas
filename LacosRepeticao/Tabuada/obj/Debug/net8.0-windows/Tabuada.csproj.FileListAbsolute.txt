@@ -1,0 +1,17 @@
+C:\Users\franciele.sjesus2\source\repos\LacosRepeticao\Tabuada\bin\Debug\net8.0-windows\Tabuada.exe
+C:\Users\franciele.sjesus2\source\repos\LacosRepeticao\Tabuada\bin\Debug\net8.0-windows\Tabuada.deps.json
+C:\Users\franciele.sjesus2\source\repos\LacosRepeticao\Tabuada\bin\Debug\net8.0-windows\Tabuada.runtimeconfig.json
+C:\Users\franciele.sjesus2\source\repos\LacosRepeticao\Tabuada\bin\Debug\net8.0-windows\Tabuada.dll
+C:\Users\franciele.sjesus2\source\repos\LacosRepeticao\Tabuada\bin\Debug\net8.0-windows\Tabuada.pdb
+C:\Users\franciele.sjesus2\source\repos\LacosRepeticao\Tabuada\obj\Debug\net8.0-windows\Tabuada.Form1.resources
+C:\Users\franciele.sjesus2\source\repos\LacosRepeticao\Tabuada\obj\Debug\net8.0-windows\Tabuada.csproj.GenerateResource.cache
+C:\Users\franciele.sjesus2\source\repos\LacosRepeticao\Tabuada\obj\Debug\net8.0-windows\Tabuada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\franciele.sjesus2\source\repos\LacosRepeticao\Tabuada\obj\Debug\net8.0-windows\Tabuada.AssemblyInfoInputs.cache
+C:\Users\franciele.sjesus2\source\repos\LacosRepeticao\Tabuada\obj\Debug\net8.0-windows\Tabuada.AssemblyInfo.cs
+C:\Users\franciele.sjesus2\source\repos\LacosRepeticao\Tabuada\obj\Debug\net8.0-windows\Tabuada.csproj.CoreCompileInputs.cache
+C:\Users\franciele.sjesus2\source\repos\LacosRepeticao\Tabuada\obj\Debug\net8.0-windows\Tabuada.sourcelink.json
+C:\Users\franciele.sjesus2\source\repos\LacosRepeticao\Tabuada\obj\Debug\net8.0-windows\Tabuada.dll
+C:\Users\franciele.sjesus2\source\repos\LacosRepeticao\Tabuada\obj\Debug\net8.0-windows\refint\Tabuada.dll
+C:\Users\franciele.sjesus2\source\repos\LacosRepeticao\Tabuada\obj\Debug\net8.0-windows\Tabuada.pdb
+C:\Users\franciele.sjesus2\source\repos\LacosRepeticao\Tabuada\obj\Debug\net8.0-windows\Tabuada.genruntimeconfig.cache
+C:\Users\franciele.sjesus2\source\repos\LacosRepeticao\Tabuada\obj\Debug\net8.0-windows\ref\Tabuada.dll
