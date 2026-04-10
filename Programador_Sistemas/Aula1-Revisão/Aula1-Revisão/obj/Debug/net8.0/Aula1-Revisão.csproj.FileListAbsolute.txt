@@ -1,0 +1,14 @@
+C:\Users\franciele.sjesus2\source\repos\Aula1-Revisão\Aula1-Revisão\bin\Debug\net8.0\Aula1-Revisão.exe
+C:\Users\franciele.sjesus2\source\repos\Aula1-Revisão\Aula1-Revisão\bin\Debug\net8.0\Aula1-Revisão.deps.json
+C:\Users\franciele.sjesus2\source\repos\Aula1-Revisão\Aula1-Revisão\bin\Debug\net8.0\Aula1-Revisão.runtimeconfig.json
+C:\Users\franciele.sjesus2\source\repos\Aula1-Revisão\Aula1-Revisão\bin\Debug\net8.0\Aula1-Revisão.dll
+C:\Users\franciele.sjesus2\source\repos\Aula1-Revisão\Aula1-Revisão\bin\Debug\net8.0\Aula1-Revisão.pdb
+C:\Users\franciele.sjesus2\source\repos\Aula1-Revisão\Aula1-Revisão\obj\Debug\net8.0\Aula1-Revisão.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\franciele.sjesus2\source\repos\Aula1-Revisão\Aula1-Revisão\obj\Debug\net8.0\Aula1-Revisão.AssemblyInfoInputs.cache
+C:\Users\franciele.sjesus2\source\repos\Aula1-Revisão\Aula1-Revisão\obj\Debug\net8.0\Aula1-Revisão.AssemblyInfo.cs
+C:\Users\franciele.sjesus2\source\repos\Aula1-Revisão\Aula1-Revisão\obj\Debug\net8.0\Aula1-Revisão.csproj.CoreCompileInputs.cache
+C:\Users\franciele.sjesus2\source\repos\Aula1-Revisão\Aula1-Revisão\obj\Debug\net8.0\Aula1-Revisão.dll
+C:\Users\franciele.sjesus2\source\repos\Aula1-Revisão\Aula1-Revisão\obj\Debug\net8.0\refint\Aula1-Revisão.dll
+C:\Users\franciele.sjesus2\source\repos\Aula1-Revisão\Aula1-Revisão\obj\Debug\net8.0\Aula1-Revisão.pdb
+C:\Users\franciele.sjesus2\source\repos\Aula1-Revisão\Aula1-Revisão\obj\Debug\net8.0\Aula1-Revisão.genruntimeconfig.cache
+C:\Users\franciele.sjesus2\source\repos\Aula1-Revisão\Aula1-Revisão\obj\Debug\net8.0\ref\Aula1-Revisão.dll

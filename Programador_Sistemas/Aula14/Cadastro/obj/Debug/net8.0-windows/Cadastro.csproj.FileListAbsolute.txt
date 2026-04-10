@@ -1,0 +1,17 @@
+C:\Users\franciele.sjesus2\source\repos\Aula14\Cadastro\bin\Debug\net8.0-windows\Cadastro.exe
+C:\Users\franciele.sjesus2\source\repos\Aula14\Cadastro\bin\Debug\net8.0-windows\Cadastro.deps.json
+C:\Users\franciele.sjesus2\source\repos\Aula14\Cadastro\bin\Debug\net8.0-windows\Cadastro.runtimeconfig.json
+C:\Users\franciele.sjesus2\source\repos\Aula14\Cadastro\bin\Debug\net8.0-windows\Cadastro.dll
+C:\Users\franciele.sjesus2\source\repos\Aula14\Cadastro\bin\Debug\net8.0-windows\Cadastro.pdb
+C:\Users\franciele.sjesus2\source\repos\Aula14\Cadastro\obj\Debug\net8.0-windows\Cadastro.Form1.resources
+C:\Users\franciele.sjesus2\source\repos\Aula14\Cadastro\obj\Debug\net8.0-windows\Cadastro.csproj.GenerateResource.cache
+C:\Users\franciele.sjesus2\source\repos\Aula14\Cadastro\obj\Debug\net8.0-windows\Cadastro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\franciele.sjesus2\source\repos\Aula14\Cadastro\obj\Debug\net8.0-windows\Cadastro.AssemblyInfoInputs.cache
+C:\Users\franciele.sjesus2\source\repos\Aula14\Cadastro\obj\Debug\net8.0-windows\Cadastro.AssemblyInfo.cs
+C:\Users\franciele.sjesus2\source\repos\Aula14\Cadastro\obj\Debug\net8.0-windows\Cadastro.csproj.CoreCompileInputs.cache
+C:\Users\franciele.sjesus2\source\repos\Aula14\Cadastro\obj\Debug\net8.0-windows\Cadastro.sourcelink.json
+C:\Users\franciele.sjesus2\source\repos\Aula14\Cadastro\obj\Debug\net8.0-windows\Cadastro.dll
+C:\Users\franciele.sjesus2\source\repos\Aula14\Cadastro\obj\Debug\net8.0-windows\refint\Cadastro.dll
+C:\Users\franciele.sjesus2\source\repos\Aula14\Cadastro\obj\Debug\net8.0-windows\Cadastro.pdb
+C:\Users\franciele.sjesus2\source\repos\Aula14\Cadastro\obj\Debug\net8.0-windows\Cadastro.genruntimeconfig.cache
+C:\Users\franciele.sjesus2\source\repos\Aula14\Cadastro\obj\Debug\net8.0-windows\ref\Cadastro.dll
