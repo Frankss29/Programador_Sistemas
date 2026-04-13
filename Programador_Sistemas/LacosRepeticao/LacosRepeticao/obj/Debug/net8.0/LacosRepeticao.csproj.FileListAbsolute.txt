@@ -1,0 +1,15 @@
+C:\Users\franciele.sjesus2\source\repos\LacosRepeticao\LacosRepeticao\bin\Debug\net8.0\LacosRepeticao.exe
+C:\Users\franciele.sjesus2\source\repos\LacosRepeticao\LacosRepeticao\bin\Debug\net8.0\LacosRepeticao.deps.json
+C:\Users\franciele.sjesus2\source\repos\LacosRepeticao\LacosRepeticao\bin\Debug\net8.0\LacosRepeticao.runtimeconfig.json
+C:\Users\franciele.sjesus2\source\repos\LacosRepeticao\LacosRepeticao\bin\Debug\net8.0\LacosRepeticao.dll
+C:\Users\franciele.sjesus2\source\repos\LacosRepeticao\LacosRepeticao\bin\Debug\net8.0\LacosRepeticao.pdb
+C:\Users\franciele.sjesus2\source\repos\LacosRepeticao\LacosRepeticao\obj\Debug\net8.0\LacosRepeticao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\franciele.sjesus2\source\repos\LacosRepeticao\LacosRepeticao\obj\Debug\net8.0\LacosRepeticao.AssemblyInfoInputs.cache
+C:\Users\franciele.sjesus2\source\repos\LacosRepeticao\LacosRepeticao\obj\Debug\net8.0\LacosRepeticao.AssemblyInfo.cs
+C:\Users\franciele.sjesus2\source\repos\LacosRepeticao\LacosRepeticao\obj\Debug\net8.0\LacosRepeticao.csproj.CoreCompileInputs.cache
+C:\Users\franciele.sjesus2\source\repos\LacosRepeticao\LacosRepeticao\obj\Debug\net8.0\LacosRepeticao.sourcelink.json
+C:\Users\franciele.sjesus2\source\repos\LacosRepeticao\LacosRepeticao\obj\Debug\net8.0\LacosRepeticao.dll
+C:\Users\franciele.sjesus2\source\repos\LacosRepeticao\LacosRepeticao\obj\Debug\net8.0\refint\LacosRepeticao.dll
+C:\Users\franciele.sjesus2\source\repos\LacosRepeticao\LacosRepeticao\obj\Debug\net8.0\LacosRepeticao.pdb
+C:\Users\franciele.sjesus2\source\repos\LacosRepeticao\LacosRepeticao\obj\Debug\net8.0\LacosRepeticao.genruntimeconfig.cache
+C:\Users\franciele.sjesus2\source\repos\LacosRepeticao\LacosRepeticao\obj\Debug\net8.0\ref\LacosRepeticao.dll

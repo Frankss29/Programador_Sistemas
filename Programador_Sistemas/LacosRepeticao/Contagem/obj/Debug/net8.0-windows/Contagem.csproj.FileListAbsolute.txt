@@ -1,0 +1,17 @@
+C:\Users\franciele.sjesus2\source\repos\LacosRepeticao\Contagem\bin\Debug\net8.0-windows\Contagem.exe
+C:\Users\franciele.sjesus2\source\repos\LacosRepeticao\Contagem\bin\Debug\net8.0-windows\Contagem.deps.json
+C:\Users\franciele.sjesus2\source\repos\LacosRepeticao\Contagem\bin\Debug\net8.0-windows\Contagem.runtimeconfig.json
+C:\Users\franciele.sjesus2\source\repos\LacosRepeticao\Contagem\bin\Debug\net8.0-windows\Contagem.dll
+C:\Users\franciele.sjesus2\source\repos\LacosRepeticao\Contagem\bin\Debug\net8.0-windows\Contagem.pdb
+C:\Users\franciele.sjesus2\source\repos\LacosRepeticao\Contagem\obj\Debug\net8.0-windows\Contagem.Form1.resources
+C:\Users\franciele.sjesus2\source\repos\LacosRepeticao\Contagem\obj\Debug\net8.0-windows\Contagem.csproj.GenerateResource.cache
+C:\Users\franciele.sjesus2\source\repos\LacosRepeticao\Contagem\obj\Debug\net8.0-windows\Contagem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\franciele.sjesus2\source\repos\LacosRepeticao\Contagem\obj\Debug\net8.0-windows\Contagem.AssemblyInfoInputs.cache
+C:\Users\franciele.sjesus2\source\repos\LacosRepeticao\Contagem\obj\Debug\net8.0-windows\Contagem.AssemblyInfo.cs
+C:\Users\franciele.sjesus2\source\repos\LacosRepeticao\Contagem\obj\Debug\net8.0-windows\Contagem.csproj.CoreCompileInputs.cache
+C:\Users\franciele.sjesus2\source\repos\LacosRepeticao\Contagem\obj\Debug\net8.0-windows\Contagem.sourcelink.json
+C:\Users\franciele.sjesus2\source\repos\LacosRepeticao\Contagem\obj\Debug\net8.0-windows\Contagem.dll
+C:\Users\franciele.sjesus2\source\repos\LacosRepeticao\Contagem\obj\Debug\net8.0-windows\refint\Contagem.dll
+C:\Users\franciele.sjesus2\source\repos\LacosRepeticao\Contagem\obj\Debug\net8.0-windows\Contagem.pdb
+C:\Users\franciele.sjesus2\source\repos\LacosRepeticao\Contagem\obj\Debug\net8.0-windows\Contagem.genruntimeconfig.cache
+C:\Users\franciele.sjesus2\source\repos\LacosRepeticao\Contagem\obj\Debug\net8.0-windows\ref\Contagem.dll

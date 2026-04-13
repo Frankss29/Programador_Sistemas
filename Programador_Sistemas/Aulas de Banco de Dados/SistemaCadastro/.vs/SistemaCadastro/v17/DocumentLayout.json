@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\franciele.sjesus2\\source\\repos\\SistemaCadastro\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{775E876E-01B9-43E1-8B47-F1D4275154D3}|SistemaCadastro\\SistemaCadastro.csproj|c:\\users\\franciele.sjesus2\\source\\repos\\sistemacadastro\\sistemacadastro\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{775E876E-01B9-43E1-8B47-F1D4275154D3}|SistemaCadastro\\SistemaCadastro.csproj|solutionrelative:sistemacadastro\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{775E876E-01B9-43E1-8B47-F1D4275154D3}|SistemaCadastro\\SistemaCadastro.csproj|c:\\users\\franciele.sjesus2\\source\\repos\\sistemacadastro\\sistemacadastro\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{775E876E-01B9-43E1-8B47-F1D4275154D3}|SistemaCadastro\\SistemaCadastro.csproj|solutionrelative:sistemacadastro\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{775E876E-01B9-43E1-8B47-F1D4275154D3}|SistemaCadastro\\SistemaCadastro.csproj|c:\\users\\franciele.sjesus2\\source\\repos\\sistemacadastro\\sistemacadastro\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{775E876E-01B9-43E1-8B47-F1D4275154D3}|SistemaCadastro\\SistemaCadastro.csproj|solutionrelative:sistemacadastro\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{775E876E-01B9-43E1-8B47-F1D4275154D3}|SistemaCadastro\\SistemaCadastro.csproj|c:\\users\\franciele.sjesus2\\source\\repos\\sistemacadastro\\sistemacadastro\\redefinirsenha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{775E876E-01B9-43E1-8B47-F1D4275154D3}|SistemaCadastro\\SistemaCadastro.csproj|solutionrelative:sistemacadastro\\redefinirsenha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{775E876E-01B9-43E1-8B47-F1D4275154D3}|SistemaCadastro\\SistemaCadastro.csproj|c:\\users\\franciele.sjesus2\\source\\repos\\sistemacadastro\\sistemacadastro\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{775E876E-01B9-43E1-8B47-F1D4275154D3}|SistemaCadastro\\SistemaCadastro.csproj|solutionrelative:sistemacadastro\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\franciele.sjesus2\\source\\repos\\SistemaCadastro\\SistemaCadastro\\Login.cs",
+              "RelativeDocumentMoniker": "SistemaCadastro\\Login.cs",
+              "ToolTip": "C:\\Users\\franciele.sjesus2\\source\\repos\\SistemaCadastro\\SistemaCadastro\\Login.cs",
+              "RelativeToolTip": "SistemaCadastro\\Login.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAnwDkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T00:46:16.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\franciele.sjesus2\\source\\repos\\SistemaCadastro\\SistemaCadastro\\Login.cs",
+              "RelativeDocumentMoniker": "SistemaCadastro\\Login.cs",
+              "ToolTip": "C:\\Users\\franciele.sjesus2\\source\\repos\\SistemaCadastro\\SistemaCadastro\\Login.cs [Projeto]",
+              "RelativeToolTip": "SistemaCadastro\\Login.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T00:43:49.868Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RedefinirSenha.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\franciele.sjesus2\\source\\repos\\SistemaCadastro\\SistemaCadastro\\RedefinirSenha.cs",
+              "RelativeDocumentMoniker": "SistemaCadastro\\RedefinirSenha.cs",
+              "ToolTip": "C:\\Users\\franciele.sjesus2\\source\\repos\\SistemaCadastro\\SistemaCadastro\\RedefinirSenha.cs [Projeto]",
+              "RelativeToolTip": "SistemaCadastro\\RedefinirSenha.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T23:26:10.438Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\franciele.sjesus2\\source\\repos\\SistemaCadastro\\SistemaCadastro\\Form1.cs",
+              "RelativeDocumentMoniker": "SistemaCadastro\\Form1.cs",
+              "ToolTip": "C:\\Users\\franciele.sjesus2\\source\\repos\\SistemaCadastro\\SistemaCadastro\\Form1.cs",
+              "RelativeToolTip": "SistemaCadastro\\Form1.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAewCwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T22:40:27.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\franciele.sjesus2\\source\\repos\\SistemaCadastro\\SistemaCadastro\\Form1.cs",
+              "RelativeDocumentMoniker": "SistemaCadastro\\Form1.cs",
+              "ToolTip": "C:\\Users\\franciele.sjesus2\\source\\repos\\SistemaCadastro\\SistemaCadastro\\Form1.cs [Projeto]",
+              "RelativeToolTip": "SistemaCadastro\\Form1.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T22:33:48.087Z",
+              "EditorCaption": " [Projeto]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

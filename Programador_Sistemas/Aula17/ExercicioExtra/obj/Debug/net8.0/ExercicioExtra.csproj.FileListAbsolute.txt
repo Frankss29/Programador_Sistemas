@@ -1,0 +1,15 @@
+C:\Users\franciele.sjesus2\source\repos\Aula17\ExercicioExtra\bin\Debug\net8.0\ExercicioExtra.exe
+C:\Users\franciele.sjesus2\source\repos\Aula17\ExercicioExtra\bin\Debug\net8.0\ExercicioExtra.deps.json
+C:\Users\franciele.sjesus2\source\repos\Aula17\ExercicioExtra\bin\Debug\net8.0\ExercicioExtra.runtimeconfig.json
+C:\Users\franciele.sjesus2\source\repos\Aula17\ExercicioExtra\bin\Debug\net8.0\ExercicioExtra.dll
+C:\Users\franciele.sjesus2\source\repos\Aula17\ExercicioExtra\bin\Debug\net8.0\ExercicioExtra.pdb
+C:\Users\franciele.sjesus2\source\repos\Aula17\ExercicioExtra\obj\Debug\net8.0\ExercicioExtra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\franciele.sjesus2\source\repos\Aula17\ExercicioExtra\obj\Debug\net8.0\ExercicioExtra.AssemblyInfoInputs.cache
+C:\Users\franciele.sjesus2\source\repos\Aula17\ExercicioExtra\obj\Debug\net8.0\ExercicioExtra.AssemblyInfo.cs
+C:\Users\franciele.sjesus2\source\repos\Aula17\ExercicioExtra\obj\Debug\net8.0\ExercicioExtra.csproj.CoreCompileInputs.cache
+C:\Users\franciele.sjesus2\source\repos\Aula17\ExercicioExtra\obj\Debug\net8.0\ExercicioExtra.sourcelink.json
+C:\Users\franciele.sjesus2\source\repos\Aula17\ExercicioExtra\obj\Debug\net8.0\ExercicioExtra.dll
+C:\Users\franciele.sjesus2\source\repos\Aula17\ExercicioExtra\obj\Debug\net8.0\refint\ExercicioExtra.dll
+C:\Users\franciele.sjesus2\source\repos\Aula17\ExercicioExtra\obj\Debug\net8.0\ExercicioExtra.pdb
+C:\Users\franciele.sjesus2\source\repos\Aula17\ExercicioExtra\obj\Debug\net8.0\ExercicioExtra.genruntimeconfig.cache
+C:\Users\franciele.sjesus2\source\repos\Aula17\ExercicioExtra\obj\Debug\net8.0\ref\ExercicioExtra.dll

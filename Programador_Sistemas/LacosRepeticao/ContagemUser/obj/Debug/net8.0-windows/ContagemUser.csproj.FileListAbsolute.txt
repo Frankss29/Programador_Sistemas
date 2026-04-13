@@ -1,0 +1,17 @@
+C:\Users\franciele.sjesus2\source\repos\LacosRepeticao\ContagemUser\bin\Debug\net8.0-windows\ContagemUser.exe
+C:\Users\franciele.sjesus2\source\repos\LacosRepeticao\ContagemUser\bin\Debug\net8.0-windows\ContagemUser.deps.json
+C:\Users\franciele.sjesus2\source\repos\LacosRepeticao\ContagemUser\bin\Debug\net8.0-windows\ContagemUser.runtimeconfig.json
+C:\Users\franciele.sjesus2\source\repos\LacosRepeticao\ContagemUser\bin\Debug\net8.0-windows\ContagemUser.dll
+C:\Users\franciele.sjesus2\source\repos\LacosRepeticao\ContagemUser\bin\Debug\net8.0-windows\ContagemUser.pdb
+C:\Users\franciele.sjesus2\source\repos\LacosRepeticao\ContagemUser\obj\Debug\net8.0-windows\ContagemUser.Form1.resources
+C:\Users\franciele.sjesus2\source\repos\LacosRepeticao\ContagemUser\obj\Debug\net8.0-windows\ContagemUser.csproj.GenerateResource.cache
+C:\Users\franciele.sjesus2\source\repos\LacosRepeticao\ContagemUser\obj\Debug\net8.0-windows\ContagemUser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\franciele.sjesus2\source\repos\LacosRepeticao\ContagemUser\obj\Debug\net8.0-windows\ContagemUser.AssemblyInfoInputs.cache
+C:\Users\franciele.sjesus2\source\repos\LacosRepeticao\ContagemUser\obj\Debug\net8.0-windows\ContagemUser.AssemblyInfo.cs
+C:\Users\franciele.sjesus2\source\repos\LacosRepeticao\ContagemUser\obj\Debug\net8.0-windows\ContagemUser.csproj.CoreCompileInputs.cache
+C:\Users\franciele.sjesus2\source\repos\LacosRepeticao\ContagemUser\obj\Debug\net8.0-windows\ContagemUser.sourcelink.json
+C:\Users\franciele.sjesus2\source\repos\LacosRepeticao\ContagemUser\obj\Debug\net8.0-windows\ContagemUser.dll
+C:\Users\franciele.sjesus2\source\repos\LacosRepeticao\ContagemUser\obj\Debug\net8.0-windows\refint\ContagemUser.dll
+C:\Users\franciele.sjesus2\source\repos\LacosRepeticao\ContagemUser\obj\Debug\net8.0-windows\ContagemUser.pdb
+C:\Users\franciele.sjesus2\source\repos\LacosRepeticao\ContagemUser\obj\Debug\net8.0-windows\ContagemUser.genruntimeconfig.cache
+C:\Users\franciele.sjesus2\source\repos\LacosRepeticao\ContagemUser\obj\Debug\net8.0-windows\ref\ContagemUser.dll

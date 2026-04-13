@@ -1,0 +1,15 @@
+C:\Users\franciele.sjesus2\source\repos\Aula3_Exercícios\Aula3_Exercícios\bin\Debug\net8.0\Aula3_Exercícios.exe
+C:\Users\franciele.sjesus2\source\repos\Aula3_Exercícios\Aula3_Exercícios\bin\Debug\net8.0\Aula3_Exercícios.deps.json
+C:\Users\franciele.sjesus2\source\repos\Aula3_Exercícios\Aula3_Exercícios\bin\Debug\net8.0\Aula3_Exercícios.runtimeconfig.json
+C:\Users\franciele.sjesus2\source\repos\Aula3_Exercícios\Aula3_Exercícios\bin\Debug\net8.0\Aula3_Exercícios.dll
+C:\Users\franciele.sjesus2\source\repos\Aula3_Exercícios\Aula3_Exercícios\bin\Debug\net8.0\Aula3_Exercícios.pdb
+C:\Users\franciele.sjesus2\source\repos\Aula3_Exercícios\Aula3_Exercícios\obj\Debug\net8.0\Aula3_Exercícios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\franciele.sjesus2\source\repos\Aula3_Exercícios\Aula3_Exercícios\obj\Debug\net8.0\Aula3_Exercícios.AssemblyInfoInputs.cache
+C:\Users\franciele.sjesus2\source\repos\Aula3_Exercícios\Aula3_Exercícios\obj\Debug\net8.0\Aula3_Exercícios.AssemblyInfo.cs
+C:\Users\franciele.sjesus2\source\repos\Aula3_Exercícios\Aula3_Exercícios\obj\Debug\net8.0\Aula3_Exercícios.csproj.CoreCompileInputs.cache
+C:\Users\franciele.sjesus2\source\repos\Aula3_Exercícios\Aula3_Exercícios\obj\Debug\net8.0\Aula3_Exercícios.sourcelink.json
+C:\Users\franciele.sjesus2\source\repos\Aula3_Exercícios\Aula3_Exercícios\obj\Debug\net8.0\Aula3_Exercícios.dll
+C:\Users\franciele.sjesus2\source\repos\Aula3_Exercícios\Aula3_Exercícios\obj\Debug\net8.0\refint\Aula3_Exercícios.dll
+C:\Users\franciele.sjesus2\source\repos\Aula3_Exercícios\Aula3_Exercícios\obj\Debug\net8.0\Aula3_Exercícios.pdb
+C:\Users\franciele.sjesus2\source\repos\Aula3_Exercícios\Aula3_Exercícios\obj\Debug\net8.0\Aula3_Exercícios.genruntimeconfig.cache
+C:\Users\franciele.sjesus2\source\repos\Aula3_Exercícios\Aula3_Exercícios\obj\Debug\net8.0\ref\Aula3_Exercícios.dll
