@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\franciele.sjesus2\\source\\repos\\Programador_Sistemas\\Aulas de Banco de Dados\\Aula18\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AFA18D34-9C23-4B85-A090-C4DA76A4EA68}|Produtos\\Produtos.csproj|c:\\users\\franciele.sjesus2\\source\\repos\\programador_sistemas\\aulas de banco de dados\\aula18\\produtos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFA18D34-9C23-4B85-A090-C4DA76A4EA68}|Produtos\\Produtos.csproj|solutionrelative:produtos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFA18D34-9C23-4B85-A090-C4DA76A4EA68}|Produtos\\Produtos.csproj|c:\\users\\franciele.sjesus2\\source\\repos\\programador_sistemas\\aulas de banco de dados\\aula18\\produtos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AFA18D34-9C23-4B85-A090-C4DA76A4EA68}|Produtos\\Produtos.csproj|solutionrelative:produtos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\franciele.sjesus2\\source\\repos\\Programador_Sistemas\\Aulas de Banco de Dados\\Aula18\\Produtos\\Form1.cs",
+              "RelativeDocumentMoniker": "Produtos\\Form1.cs",
+              "ToolTip": "C:\\Users\\franciele.sjesus2\\source\\repos\\Programador_Sistemas\\Aulas de Banco de Dados\\Aula18\\Produtos\\Form1.cs",
+              "RelativeToolTip": "Produtos\\Form1.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAhwD0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T00:17:57.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\franciele.sjesus2\\source\\repos\\Programador_Sistemas\\Aulas de Banco de Dados\\Aula18\\Produtos\\Form1.cs",
+              "RelativeDocumentMoniker": "Produtos\\Form1.cs",
+              "ToolTip": "C:\\Users\\franciele.sjesus2\\source\\repos\\Programador_Sistemas\\Aulas de Banco de Dados\\Aula18\\Produtos\\Form1.cs [Projeto]",
+              "RelativeToolTip": "Produtos\\Form1.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T00:15:36.091Z",
+              "EditorCaption": " [Projeto]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
