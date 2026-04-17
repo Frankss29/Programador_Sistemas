@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Fran\\source\\repos\\Programador_Sistemas\\Aulas de Banco de Dados\\Aula16BD\\Aula_Curso\\Aula_Curso.csproj": {}
+    "C:\\Users\\franciele.sjesus2\\source\\repos\\Programador_Sistemas\\Aulas de Banco de Dados\\Aula16BD\\Aula_Curso\\Aula_Curso.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Fran\\source\\repos\\Programador_Sistemas\\Aulas de Banco de Dados\\Aula16BD\\Aula_Curso\\Aula_Curso.csproj": {
+    "C:\\Users\\franciele.sjesus2\\source\\repos\\Programador_Sistemas\\Aulas de Banco de Dados\\Aula16BD\\Aula_Curso\\Aula_Curso.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Fran\\source\\repos\\Programador_Sistemas\\Aulas de Banco de Dados\\Aula16BD\\Aula_Curso\\Aula_Curso.csproj",
+        "projectUniqueName": "C:\\Users\\franciele.sjesus2\\source\\repos\\Programador_Sistemas\\Aulas de Banco de Dados\\Aula16BD\\Aula_Curso\\Aula_Curso.csproj",
         "projectName": "Aula_Curso",
-        "projectPath": "C:\\Users\\Fran\\source\\repos\\Programador_Sistemas\\Aulas de Banco de Dados\\Aula16BD\\Aula_Curso\\Aula_Curso.csproj",
-        "packagesPath": "C:\\Users\\Fran\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Fran\\source\\repos\\Programador_Sistemas\\Aulas de Banco de Dados\\Aula16BD\\Aula_Curso\\obj\\",
+        "projectPath": "C:\\Users\\franciele.sjesus2\\source\\repos\\Programador_Sistemas\\Aulas de Banco de Dados\\Aula16BD\\Aula_Curso\\Aula_Curso.csproj",
+        "packagesPath": "C:\\Users\\franciele.sjesus2\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\franciele.sjesus2\\source\\repos\\Programador_Sistemas\\Aulas de Banco de Dados\\Aula16BD\\Aula_Curso\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Fran\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\franciele.sjesus2\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -70,7 +75,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.312/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.302/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
